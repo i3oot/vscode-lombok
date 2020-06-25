@@ -1,0 +1,16 @@
+apiVersion: v2
+publisher: i3oot
+name: lombok
+version: 0.0.1
+type: VS Code extension
+displayName: Lombok Annotations Support
+title: Lombok Annotations Support
+description: A lightweight extension to support Lombok annotations processing in Eclipse Che
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/i3oot/vscode-lombok
+category: Language
+firstPublicationDate: "2020-06-25"
+spec:
+  extensions:
+    - https://www.vsixhub.com/go.php?post_id=4144&s=publish&link=https%3A%2F%2Ff.vsixhub.com%2Ffile.php%3Fpost_id%3D4144%26app_id%3D4b3ff6b3-747b-48b1-9593-61195ead981b%26version%3D1.0.1%26ext_name%3Dvscode-lombok
+latestUpdateDate: "2020-06-25"
