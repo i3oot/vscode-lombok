@@ -12,5 +12,6 @@ category: Language
 firstPublicationDate: "2020-06-25"
 spec:
   extensions:
-    - https://www.vsixhub.com/go.php?post_id=4144&s=publish&link=https%3A%2F%2Ff.vsixhub.com%2Ffile.php%3Fpost_id%3D4144%26app_id%3D4b3ff6b3-747b-48b1-9593-61195ead981b%26version%3D1.0.1%26ext_name%3Dvscode-lombok
+    - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/GabrielBB/vsextensions/vscode-lombok/1.0.1/vspackage
+#404    - https://www.vsixhub.com/go.php?post_id=4144&s=publish&link=https%3A%2F%2Ff.vsixhub.com%2Ffile.php%3Fpost_id%3D4144%26app_id%3D4b3ff6b3-747b-48b1-9593-61195ead981b%26version%3D1.0.1%26ext_name%3Dvscode-lombok
 latestUpdateDate: "2020-06-25"
